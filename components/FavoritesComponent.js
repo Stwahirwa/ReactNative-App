@@ -81,6 +81,7 @@ class Favorites extends Component {
                 </View>
             );
         }
+        
         return (
             <FlatList
                 data={this.props.campsites.campsites.filter(
