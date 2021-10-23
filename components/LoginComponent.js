@@ -192,6 +192,7 @@ class RegisterTab extends Component {
             }
         }
     }
+//Above code is Week Assignment 
 
     handleRegister() {
         console.log(JSON.stringify(this.state));
